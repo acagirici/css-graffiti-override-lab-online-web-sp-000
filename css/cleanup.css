@@ -2,7 +2,7 @@
 #wall .tag-1 {display: none;}
 .tag-1#tag-2 {display: none;}
 .slick wicked {display: none;}
-.parent#tag-4 {display: none;}
+.parent{display: none;}
 #tag-5 {display: none;}
 #tag-6 {display: none;}
 #tag-7 {display: none;}
